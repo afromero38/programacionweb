@@ -1,0 +1,8 @@
+@font-face{
+	font-family: Tangerine_Bold;
+	src:url (fuente/Tangerine_Bold.ttf);
+}
+
+h1{
+	font-family:Tangerine_Bold;
+}
