@@ -24,10 +24,9 @@ header, #menu, #contenido{
 }
 
 section#menu{
-	background: #015FBF;
-	height: 60px;
+	background: #000;
+	height: 30px;
 	display: inline-block;
-
 	
 
 }
@@ -35,7 +34,7 @@ section#menu{
 section#contenido{
 	font-family: Leelawadee UI;
 	background: #ffffff;
-	height: 770px;
+	height: 810px;
 
 }
 
@@ -62,3 +61,6 @@ footer{
 	width: 1050px;
 	height: 5px
 }
+
+
+
