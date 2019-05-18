@@ -5,7 +5,14 @@
 }
 
 body{
-	background: #ccc;
+	/* Background colors */
+.color-2 
+  background: -webkit-linear-gradient(90deg, #e74d6b 10%, #8cc8ac 90%);
+  background:    -moz-linear-gradient(90deg, #e74d6b 10%, #8cc8ac 90%);
+  background:     -ms-linear-gradient(90deg, #e74d6b 10%, #8cc8ac 90%);
+  background:      -o-linear-gradient(90deg, #e74d6b 10%, #8cc8ac 90%);
+  background:         linear-gradient(90deg, #e74d6b 10%, #8cc8ac 90%);
+
 }
 
 section#contenedor{
@@ -61,7 +68,7 @@ footer{
 }
 
 #espacio{
-	background:#ccc;
+	background:rgba(138,221,45,0);
 	width: 1050px;
 	height: 5px
 }
