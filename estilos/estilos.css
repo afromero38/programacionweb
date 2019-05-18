@@ -35,7 +35,11 @@ section#contenido{
 	font-family: Leelawadee UI;
 	background: #ffffff;
 	height: 810px;
+	
+}
 
+section#relleno {
+margin-left: 2em;
 }
 
 footer{
