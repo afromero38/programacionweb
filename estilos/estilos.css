@@ -5,18 +5,15 @@
 }
 
 body{
-	/* Background colors */
-.color-2 
   background: -webkit-linear-gradient(90deg, #e74d6b 10%, #8cc8ac 90%);
   background:    -moz-linear-gradient(90deg, #e74d6b 10%, #8cc8ac 90%);
   background:     -ms-linear-gradient(90deg, #e74d6b 10%, #8cc8ac 90%);
   background:      -o-linear-gradient(90deg, #e74d6b 10%, #8cc8ac 90%);
   background:         linear-gradient(90deg, #e74d6b 10%, #8cc8ac 90%);
-
 }
 
 section#contenedor{
-	background:#fff;
+	background:#rgba(138,221,45,0);
 	height: 1050px;
 	width:  900px;
 	margin-right: auto;
