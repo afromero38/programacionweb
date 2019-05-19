@@ -36,10 +36,10 @@ section#titulo{
 	background:rgba(138,221,45,0);
 	font-size:43px;
     font-family:Leelawadee UI;
-    text-shadow: 1px 2px #000;
-    color:#fff;
+    text-shadow: -1px 0 #3498DB, 1px 0 #3498DB, 0 1px #3498DB, 0 -1px #3498DB;
+   	color: #fff;
 	height: 70px;
-	width: 900px;
+	width: 900px;	
 }
 
 section#contenido{
