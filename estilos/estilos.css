@@ -6,6 +6,7 @@
 
 body{
   background: linear-gradient(90deg, #043959 10%, #145d87 90%);
+  width:100%;
 }
 
 section#contenedor{
