@@ -1,23 +1,20 @@
 *{
-	border:0;
+	border-radius:6px;
 	margin:0;
 	padding:0; 
 }
 
 body{
-  background: -webkit-linear-gradient(90deg, #3b3c54 10%, #316960 90%);
-  background:    -moz-linear-gradient(90deg, #3b3c54 10%, #316960 90%);
-  background:     -ms-linear-gradient(90deg, #3b3c54 10%, #316960 90%);
-  background:      -o-linear-gradient(90deg, #3b3c54 10%, #316960 90%);
-  background:         linear-gradient(90deg, #3b3c54 10%, #316960 90%);
+  background: linear-gradient(90deg, #3b3c54 10%, #316960 90%);
 }
 
 section#contenedor{
-	background:#rgba(138,221,45,0);
+	background:rgba(138,221,45,0);
 	height: 1050px;
 	width:  900px;
 	margin-right: auto;
 	margin-left: auto;
+
 }
 
 header, #menu, #contenido{
@@ -39,6 +36,8 @@ section#titulo{
 	background:rgba(138,221,45,0);
 	font-size:43px;
     font-family:Leelawadee UI;
+    text-shadow: 1px 2px #000;
+    color:#fff;
 	height: 70px;
 	width: 900px;
 }
