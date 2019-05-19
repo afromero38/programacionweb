@@ -37,7 +37,9 @@ section#menu{
 
 section#titulo{
 	background:rgba(138,221,45,0);
-	height: 80px;
+	font-size:43px;
+    font-family:Leelawadee UI;
+	height: 70px;
 	width: 900px;
 }
 
