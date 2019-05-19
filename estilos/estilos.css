@@ -5,11 +5,11 @@
 }
 
 body{
-  background: -webkit-linear-gradient(90deg, #e74d6b 10%, #8cc8ac 90%);
-  background:    -moz-linear-gradient(90deg, #e74d6b 10%, #8cc8ac 90%);
-  background:     -ms-linear-gradient(90deg, #e74d6b 10%, #8cc8ac 90%);
-  background:      -o-linear-gradient(90deg, #e74d6b 10%, #8cc8ac 90%);
-  background:         linear-gradient(90deg, #e74d6b 10%, #8cc8ac 90%);
+  background: -webkit-linear-gradient(90deg, #3b3c54 10%, #316960 90%);
+  background:    -moz-linear-gradient(90deg, #3b3c54 10%, #316960 90%);
+  background:     -ms-linear-gradient(90deg, #3b3c54 10%, #316960 90%);
+  background:      -o-linear-gradient(90deg, #3b3c54 10%, #316960 90%);
+  background:         linear-gradient(90deg, #3b3c54 10%, #316960 90%);
 }
 
 section#contenedor{
